@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Me chamo Bruno Martins</h1>
 
-<!--
-**brunomartins32/brunomartins32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor fullstack com foco em soluções Java, Angular e infraestrutura em nuvem.<br>
+  🚀 Apaixonado por tecnologia, automação e boas práticas de desenvolvimento.<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologias que trabalho
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&hide_border=true"/>
+</div>
+
+---
+
+### 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/brunomartins11)
+- ✉️ brunomartinns@hotmail.com.com
+---
+
+⭐️ Se você gostou do meu perfil, não esqueça de dar uma estrela nos meus repositórios!
+
