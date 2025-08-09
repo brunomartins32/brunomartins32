@@ -21,7 +21,7 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<div align="flex-start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartins32&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
